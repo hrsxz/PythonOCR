@@ -1,0 +1,18 @@
+--index-url https://mirrors.aliyun.com/pypi/simple
+--extra-index-url https://pypi.tuna.tsinghua.edu.cn/simple
+--extra-index-url https://pypi.org/simple
+
+click
+tqdm
+torch>=2.0
+torchvision>=0.15.0
+numpy
+pytorch-lightning>=2.0.0
+wandb
+datasets[vision]
+albumentations
+torchmetrics>=0.9.0
+pillow>=5.3.0
+onnx
+onnxruntime
+cnstd>=1.2.3.5
