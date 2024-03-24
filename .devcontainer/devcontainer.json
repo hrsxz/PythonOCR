@@ -1,0 +1,6 @@
+{
+	"name": "dev-container",
+	"build": {
+		"dockerfile": "../Dockerfile"
+	}
+}
